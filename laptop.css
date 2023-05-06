@@ -1,0 +1,120 @@
+html,body {
+    width: 100%;
+    height: auto;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+    font-family:Helvetica;
+    
+  
+  }
+  header {
+    margin-top: 20px;
+    margin-left: 40px;
+  }
+  .logo {
+    margin-top:5px;
+    width: 80px;
+    height: 80px;
+  }
+  #ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 10px;
+  }
+  #li {
+    float: left;
+  }
+  #li a {
+    text-decoration: none;
+    display: block;
+    font-size: 20px;
+    position: relative;
+  }
+  .menu {
+    display: flex;
+    color:blue;
+  }
+  .me1 {
+    margin-top: 55px;
+    margin-left: 50px;
+  }
+  .me1 :hover {
+    color: orange;
+  }
+  .me2 {
+  
+    margin-left: 40px;
+    font-size: 20px;
+    float: right;
+    margin-top:30px;
+  }
+  .me2 :hover {
+    color: orange;
+  }
+  .icom {
+    margin-left: 380px;
+    position: relative;
+    display: flex;
+    margin-top: 30px;;
+  }
+  .search {
+    width: 40px;
+    height: 36px;
+    margin-left: 70px;
+   margin-top:25px;
+    float:inline-block;
+  }
+  .red{
+    box-sizing: border-box;
+    width:270px;
+    height:350px;
+    margin-left:20px;
+    border-radius:2px;
+    text-align:center;
+  }
+  .red:hover{
+    box-shadow: 2px 2px 2px 2px rgb(160, 196, 15);
+  }
+  .redm{
+    height:130px;
+    width:120px;
+    margin:20px;
+  }
+  .buy{
+    width:60px;
+    height:30px;
+    background:rgb(20, 149, 213);
+    padding:5px;
+    border-radius:10px;
+    font-size:17px;
+  }
+  a{
+    text-decoration:none;
+  }
+  a:hover{
+    color:azure;
+  }
+  .redmi{
+    display:flex;
+  }
+  .th{
+    margin-top:20px;
+    height:100px;
+    width:160px;
+    padding:20px;
+  }
+  .th1{
+    margin-top:20px;
+    height:80px;
+    width:70px;
+    padding:20px;
+  }
+  .th2{
+    margin-top:20px;
+    height:140px;
+    width:160px;
+
+  }

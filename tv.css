@@ -1,0 +1,157 @@
+html,body {
+    width: 100%;
+    height: auto;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+    font-family:Helvetica;
+    
+  
+  }
+  header {
+    margin-top: 20px;
+    margin-left: 40px;
+  }
+  .logo {
+    margin-top:5px;
+    width: 80px;
+    height: 80px;
+  }
+  #ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 10px;
+  }
+  #li {
+    float: left;
+  }
+  #li a {
+    text-decoration: none;
+    display: block;
+    font-size: 20px;
+    position: relative;
+  }
+  .menu {
+    display: flex;
+    color:blue;
+  }
+  .me1 {
+    margin-top: 55px;
+    margin-left: 50px;
+  }
+  .me1 :hover {
+    color: orange;
+  }
+  .me2 {
+  
+    margin-left: 50px;
+    font-size: 20px;
+    float: right;
+    margin-top:25px;
+  }
+  .me2 :hover {
+    color: orange;
+  }
+  .icom {
+    margin-left: 380px;
+    position: relative;
+    display: flex;
+    margin-top: 30px;;
+  }
+  .search {
+    width: 40px;
+    height: 36px;
+    margin-left: 60px;
+   margin-top:20px;
+    float:inline-block;
+  }
+  .red{
+    box-sizing: border-box;
+    width:450px;
+    height:480px;
+    margin-left:20px;
+    border-radius:10px;
+    text-align:center;
+    margin-left:50px;
+    margin:20px;
+  }
+  .red:hover{
+    box-shadow: 2px 2px 2px 2px rgb(199, 17, 105);
+  }
+  .red2{
+    box-sizing: border-box;
+    width:450px;
+    height:750px;
+    margin-left:20px;
+    border-radius:10px;
+    text-align:center;
+    margin-left:50px;
+    margin:20px;
+  }
+  .red2:hover{
+    box-shadow: 2px 2px 2px 2px rgb(199, 17, 105);
+  }
+  .redm{
+    height:130px;
+    width:120px;
+   
+  }
+  .buy{
+    width:60px;
+    height:30px;
+    color:white;
+    background:rgb(85, 9, 74);
+    padding:5px;
+    border-radius:10px;
+    font-size:17px;
+  }
+  a{
+    text-decoration: none;;
+  }
+  a:hover{
+    color:rgb(109, 208, 208);
+  }
+  .redmi{
+    display:flex;
+  }
+  .th{
+    height:200px;
+    width:280px;
+    margin-top:50px;
+  }
+  
+  .red1{
+    box-sizing: border-box;
+    width:1550px;
+    height:750px;
+    margin-left:20px;
+    border-radius:10px;
+    text-align:center;
+    margin-left:50px;
+    margin:20px;
+  }
+  .red1:hover{
+    box-shadow: 2px 2px 2px 2px rgb(199, 17, 105);
+  }
+  .red3{
+    box-sizing: border-box;
+    width:650px;
+    height:680px;
+    margin-left:20px;
+    border-radius:10px;
+    text-align:center;
+    margin-left:50px;
+    margin:20px;
+  }
+  .red3:hover{
+    box-shadow: 2px 2px 2px 2px rgb(199, 17, 105);
+  }
+  .icons{
+    height:70px;
+    width:130px;
+    margin-left:150px;
+    padding:5px;
+    margin-bottom:30px;
+  }
